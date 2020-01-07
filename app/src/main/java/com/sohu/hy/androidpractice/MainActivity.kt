@@ -42,5 +42,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("chao","release1.2")
 
         Log.d("chao","rlease1.1.1")
+        Log.d("chao","rlease1.1.2")
     }
 }
